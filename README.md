@@ -8,5 +8,5 @@ My first one, after school begins.
 ```
 
 ```
-**I am enjoying it**
+I am enjoying it!
 ```
